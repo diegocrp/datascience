@@ -9,4 +9,4 @@ Hello world
 
 Línea añadida
 
-Aquí va el conflicto :(
+Conflicto resuelto, ni para ti ni para mi ;)
